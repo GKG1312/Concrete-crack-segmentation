@@ -1,0 +1,2 @@
+model_checkpoint_path: "deepcrack_weights"
+all_model_checkpoint_paths: "deepcrack_weights"
